@@ -6,13 +6,13 @@ body {
     background-color: #FCEBB6;
     color: #221811;
     font-family: Verdana, Arial, sans-serif;
-    background-image: url(DataFiles/background.gif);
+    background-image: url(background.gif);
 }
 
 header {
     background-color: #D2B48C;
     height: 150px;
-    background-image: url(DataFiles/javajamlogo.jpg);
+    background-image: url(javajamlogo.jpg);
     background-repeat: no-repeat;
 }
 
@@ -89,19 +89,19 @@ img {
 }
 
 #heroroad {
-    background-image: url("Javajam_Data_Files/heroroad.jpg");
+    background-image: url("heroroad.jpg");
     height: 271px;
     background-size: cover;
 }
 
 #heromugs {
-    background-image: url("Javajam_Data_Files/heromugs.jpg");
+    background-image: url("heromugs.jpg");
     height: 271px;
     background-size: cover;
 }
 
 #heroguitar {
-    background-image: url("Javajam_Data_Files/heroguitar.jpg");
+    background-image: url("heroguitar.jpg");
     height: 271px;
     background-size: cover;
 }
@@ -185,6 +185,6 @@ input, textarea {
 
 #herojobs {
     height: 250px;
-    background-image: url(Javajam_Data_Files/herojobs.jpg);
+    background-image: url(herojobs.jpg);
     background-size: 100%;
 }
