@@ -6,13 +6,13 @@ body {
     background-color: #FCEBB6;
     color: #221811;
     font-family: Verdana, Arial, sans-serif;
-    background-image: url(background.gif);
+    background-image: url("background.gif");
 }
 
 header {
     background-color: #D2B48C;
     height: 150px;
-    background-image: url(javajamlogo.jpg);
+    background-image: url("javajamlogo.jpg");
     background-repeat: no-repeat;
 }
 
@@ -185,6 +185,6 @@ input, textarea {
 
 #herojobs {
     height: 250px;
-    background-image: url(herojobs.jpg);
+    background-image: url("herojobs.jpg");
     background-size: 100%;
 }
